@@ -1,0 +1,9 @@
+transformers
+torch
+truthbrush @ git+https://github.com/stanfordio/truthbrush.git
+requests
+tqdm
+pandas
+lxml
+beautifulsoup4
+python-dateutil
